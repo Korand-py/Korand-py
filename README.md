@@ -7,9 +7,3 @@
 
 # 💻 Технический стек:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub статистика:
-![](https://github-readme-stats.vercel.app/api?username=Korand-py&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Korand-py&theme=dark&hide_border=true)<br/>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
